@@ -1,0 +1,3 @@
+[submodule "jira-proxy"]
+	path = jira-proxy
+	url = https://github.com/aguillaume/jira-proxy.git
