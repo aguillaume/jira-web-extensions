@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
+      <router-link to="/dependency-grapher">Dependency Grapher</router-link> |
       <router-link to="/team-dashboard">Team Dashboard</router-link>
     </div>
     <router-view/>
